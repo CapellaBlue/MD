@@ -24,4 +24,8 @@
 
    2. Are the text portions under the videos
     transcripts? This isn't clear:/
-   3.
+
+4. Lesosn 7
+   1. Slide 6 is missing an explanation for the question
+   2. Slide 9: explanation needed
+   3. We are missing topics for this lesson
