@@ -14,10 +14,14 @@
 
    6. After consolidating lesson 0, it is only 5 slides long. We may want to consider adding more lessons to this or bunching it with lesson 1. A thought only, I think the minimum is 5, but I'll check for you and get back.
 
-2. Lesson 1
-   1. Slide 16, We are missing the wistia link for the Didi-Relationship Video
+2. Lesson 5
+   1. Slide 16, We are missing the wistia link for the Didi-Relationship Video-- plus any additional videos
 
    2. In past courses all images pulled from the web needed to be redone and designed a certain way-- I'm unsure if this requirement is held across all courses, but it would be worth finding out to fix them now instead of later.
 
+3. Lesson 6
+   1. Video links needed
+
+   2. Are the text portions under the videos
+    transcripts? This isn't clear:/
    3.
-   4.
