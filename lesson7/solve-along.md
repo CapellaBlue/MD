@@ -28,9 +28,7 @@ The case study and images are credited to Wilkinson Sword and Social Partners.
 
 ##### Topics
 
-*
-*
-*
+* Wilkinson Sword Case Study
 
 ##### References & Next Steps
 
@@ -120,7 +118,7 @@ _Choices_:
 
 4. Find the most influential mustachioed man in the world and have him comment and share on the top posts
 
-_Explanation_:
+_Explanation_: That's right! Read on to learn how they did it.
 
 ---
 <!-- 8 -->
@@ -144,7 +142,7 @@ _Prompt_: You’re getting ready to share the results of your campaign with your
 4. Purchase intent from the trialists *
 5. Market share *
 
-_Explanation_:
+_Explanation_: Nailed it! Read on to learn what they did.
 
 ---
 <!-- 10 -->
