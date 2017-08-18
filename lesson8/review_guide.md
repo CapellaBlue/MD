@@ -1,4 +1,5 @@
 ### Questions to ask when evaluating an influencer campaign 
+
 1. Why was working with influencers the right approach?
 - Use the five benefits from the Introduction to Influencer Marketing lesson to
 answer the question above:
